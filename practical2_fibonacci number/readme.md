@@ -25,7 +25,7 @@ Returns:
     int: The nth Fibonacci number
 """
 
-#recursive im plementation
+# recursive im plementation
 def fibonacci_recursive(n):
     if n <= 0:
         return "invalid input"
